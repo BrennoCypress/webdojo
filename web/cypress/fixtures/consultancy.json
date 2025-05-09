@@ -1,0 +1,45 @@
+{
+    "personal": {
+      "name": "Fernando Papito",
+      "email": "papito@teste.com.br",
+      "phone": "11 99999-1000",
+      "consultancyType": "Individual",
+      "personType": "cpf",
+      "document": "79525316033",
+      "discoveryChannels": [
+        "Instagram",
+        "LinkedIn",
+        "Udemy",
+        "YouTube",
+        "Indicação de Amigo"
+      ],
+      "file": "./cypress/fixtures/document.pdf",
+      "description": "There are many variations of passages of Lorem Ipsum available.",
+      "techs": [
+        "Cypress",
+        "Selenium",
+        "WebDriverIO",
+        "PlayWright",
+        "Robot Framework"
+      ],
+      "terms": true
+    },
+    "company": {
+      "name": "Fernando Papito",
+      "email": "papito@teste.com.br",
+      "phone": "11 99999-1000",
+      "consultancyType": "In Company",
+      "personType": "cnpj",
+      "document": "33810761000168",
+      "discoveryChannels": [
+        "LinkedIn"
+      ],
+      "file": "./cypress/fixtures/document.pdf",
+      "description": "There are many variations of passages of Lorem Ipsum available.",
+      "techs": [
+        "Cypress"
+      ],
+      "terms": true
+    }
+  }
+  
